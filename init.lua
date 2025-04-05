@@ -22,5 +22,6 @@ require 'plugins.telescope',
 --require 'plugins.edgy'
 require 'plugins.toggleterm',
 require 'plugins.codeium',
+require 'plugins.lsp',
 require 'plugins.themery'
 }
